@@ -10,9 +10,6 @@ import math
 
 
 #ArUco declarations
-# mtx,dist = c alibration matrix and distortion coefficients of camera calibration (https://docs.luxonis.com/en/latest/pages/calibration/)
-#mtx = np.load('D:\TUBcloud\Bachelorarbeit\Code\TutorialDownloads\ArUco-marker-detection-with-DepthAi-main\datacalib_mtx_THE400.pkl', allow_pickle=True)
-#dist = np.load('D:\TUBcloud\Bachelorarbeit\Code\TutorialDownloads\ArUco-marker-detection-with-DepthAi-main\datacalib_dist_THE400.pkl', allow_pickle=True)
 size_of_marker = 0.052  # 52mm Breite
 length_of_axis = 0.05
 x_mid_Right = 0
